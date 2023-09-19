@@ -1,21 +1,13 @@
-## Hi there 👋
-<!--
+# Syndemics Lab at Boston Medical Center
+Welcome to the [Syndemics Lab](https://syndemicslab.org). Under Lead Principal Investigator Benjamin P. Linas, we conduct research as part of Boston Medical Center.
 
-**Here are some ideas to get you started:**
+## What We Do
+Our team studies synergistic epidemics, or *syndemics*, with a particular focus on Hepatitis C Virus (HCV), the Human Immunodeficiency Virus (HIV), and substance use disorder.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Our work is centered on using simulation and cost-effectiveness analysis methods to evaluate current public health guidelines and policies, primarily through use of our simulation models, RESPOND and HEP-CE.
 
-Welcome to the Syndemics Lab Group Page. We are a research lab part of Boston Medical Center lead by Dr. Benjamin Linas. Our primary focuses are on Substance Use Disorder and associated diseases, with two major simulation models:
-1. RESPOND
-2. HEP-CE
+### RESPOND
+**R**esearching **E**ffective **S**trategies to **P**revent **O**pioid **D**eath (`RESPOND`) is a compartmental, cohort-based simulation model intended to represent a population with opioid use disorder through its movements on and off of treatments.
 
-### RESPOND ###
-RESPOND is a state space cohort based simulation intended to model opioid use disorder (OUD) and the various treatments over time. 
-
-### HEP-CE ###
-HEP-CE is a microsimulation intended to model the spread of Hepatitis-C Virus and the progression amongst various groups.
+### HEP-CE
+**Hep**atitis C **C**ost **E**ffectiveness (`HEP-CE`) is a health economics Markov Chain Monte Carlo micro-simulation model focused on studying the syndemic of opioid use disorder and the hepatitis C virus (HCV).
