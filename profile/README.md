@@ -11,3 +11,6 @@ Our work is centered on using simulation and cost-effectiveness analysis methods
 
 ### HEP-CE
 **Hep**atitis C **C**ost **E**ffectiveness (`HEP-CE`) is a health economics Markov Chain Monte Carlo micro-simulation model focused on studying the syndemic of opioid use disorder and the hepatitis C virus (HCV).
+
+### Lab Glossary
+[Word File](https://bmcorg-my.sharepoint.com/:w:/g/personal/matthew_carroll_bmc_org/ESQbDqLmKg9Agmj3YprAg7EB-VTvxtY9mQZ_3RyZWKnr7Q?e=h3GFgv)
