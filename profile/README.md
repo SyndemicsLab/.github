@@ -1,7 +1,7 @@
 # Syndemics Lab at Boston Medical Center
 <p align="center">
-<img src="./images/SyndemicsLab.png" alt="Syndemics Lab Logo" height="200px" />
-<img src="./images/BMC.png" alt="BMC Logo" height="200px" />
+<img src="./images/SyndemicsLab.png" alt="Syndemics Lab Logo" height="150px" />
+<img src="./images/BMC.png" alt="BMC Logo" height="150px" />
 </p>
 
 Welcome to the [Syndemics Lab](https://syndemicslab.org). Under Lead Principal Investigator Benjamin P. Linas, we conduct research as part of Boston Medical Center.
@@ -13,13 +13,13 @@ Our work is centered on using simulation and cost-effectiveness analysis methods
 
 ### RESPOND
 <p align="center">
-<img src="./images/RESPOND.png" alt="RESPOND Logo" height="200px" />
+<img src="./images/RESPOND.png" alt="RESPOND Logo" height="150px" />
 </p>
 **R**esearching **E**ffective **S**trategies to **P**revent **O**pioid **D**eath (`RESPOND`) is a compartmental, cohort-based simulation model intended to represent a population with opioid use disorder through its movements on and off of treatments.
 
 ### HEP-CE
 <p align="center">
-<img src="./images/HEPCE.png" alt="HEP-CE Logo" height="200px" />
+<img src="./images/HEPCE.png" alt="HEP-CE Logo" height="150px" />
 </p>
 **Hep**atitis C **C**ost **E**ffectiveness (`HEP-CE`) is a health economics Markov Chain Monte Carlo micro-simulation model focused on studying the syndemic of opioid use disorder and the hepatitis C virus (HCV).
 
