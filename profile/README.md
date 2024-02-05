@@ -1,6 +1,10 @@
 <p align="center">
+<a href="https://syndemicslab.org">
 <img src="./images/SyndemicsLab.png" alt="Syndemics Lab Logo" height="150px" />
+</a>
+<a href="https://bmc.org">
 <img src="./images/BMC.png" alt="BMC Logo" height="150px" />
+</a>
 </p>
 
 # Syndemics Lab at Boston Medical Center
