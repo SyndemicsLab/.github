@@ -1,9 +1,9 @@
-# Syndemics Lab at Boston Medical Center
 <p align="center">
 <img src="./images/SyndemicsLab.png" alt="Syndemics Lab Logo" height="150px" />
 <img src="./images/BMC.png" alt="BMC Logo" height="150px" />
 </p>
 
+# Syndemics Lab at Boston Medical Center
 Welcome to the [Syndemics Lab](https://syndemicslab.org). Under Lead Principal Investigator Benjamin P. Linas, we conduct research as part of Boston Medical Center.
 
 ## What We Do
