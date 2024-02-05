@@ -1,6 +1,6 @@
 <p align="center">
-<a href="https://syndemicslab.org"><img src="./images/SyndemicsLab.png" alt="Syndemics Lab Logo" height="150px" /></a>
-<a href="https://bmc.org"><img src="./images/BMC.png" alt="BMC Logo" height="150px" /></a>
+<a href="https://syndemicslab.org"><img src="https://github.com/SyndemicsLab/.github/blob/main/profile/images/SyndemicsLab.png" alt="Syndemics Lab Logo" height="150px" /></a>
+<a href="https://bmc.org"><img src="https://github.com/SyndemicsLab/.github/blob/main/profile/images/BMC.png" alt="BMC Logo" height="150px" /></a>
 </p>
 
 # Syndemics Lab at Boston Medical Center
@@ -12,9 +12,9 @@ Our team studies synergistic epidemics, or *syndemics*, with a particular focus 
 Our work is centered on using simulation and cost-effectiveness analysis methods to evaluate current public health guidelines and policies, primarily through use of our simulation models, RESPOND and HEP-CE.
 
 <p align="center">
-<img src="./images/RESPOND.png" alt="RESPOND Logo" height="100" />
+<img src="https://github.com/SyndemicsLab/.github/blob/main/profile/images/RESPOND.png" alt="RESPOND Logo" height="100" />
 &nbsp;&nbsp;
-<img src="./images/HEPCE.png" alt="HEP-CE Logo" height="100" />
+<img src="https://github.com/SyndemicsLab/.github/blob/main/profile/images/HEPCE.png" alt="HEP-CE Logo" height="100" />
 </p>
 
 ### RESPOND
