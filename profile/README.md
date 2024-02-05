@@ -13,13 +13,13 @@ Our work is centered on using simulation and cost-effectiveness analysis methods
 
 ### RESPOND
 <p align="center">
-<img src="./images/RESPOND.png" alt="RESPOND Logo" height="10em" />
+<img src="./images/RESPOND.png" alt="RESPOND Logo" height="100" />
 </p>
 **R**esearching **E**ffective **S**trategies to **P**revent **O**pioid **D**eath (`RESPOND`) is a compartmental, cohort-based simulation model intended to represent a population with opioid use disorder through its movements on and off of treatments.
 
 ### HEP-CE
 <p align="center">
-<img src="./images/HEPCE.png" alt="HEP-CE Logo" height="10em" />
+<img src="./images/HEPCE.png" alt="HEP-CE Logo" height="100" />
 </p>
 **Hep**atitis C **C**ost **E**ffectiveness (`HEP-CE`) is a health economics Markov Chain Monte Carlo micro-simulation model focused on studying the syndemic of opioid use disorder and the hepatitis C virus (HCV).
 
