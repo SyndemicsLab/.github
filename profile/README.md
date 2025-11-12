@@ -2,9 +2,9 @@
 Welcome to the [Syndemics Lab](https://syndemicslab.org). Under Lead Principal Investigator Benjamin P. Linas, we conduct research as part of Boston Medical Center.
 
 <p align="center">
-<a href="https://syndemicslab.org"><img src="https://github.com/SyndemicsLab/.github/blob/main/profile/images/SyndemicsLab.png" alt="Syndemics Lab Logo" height="150px" /></a>
+<a href="https://syndemicslab.org"><img src="/profile/images/SyndemicsLab.png" alt="Syndemics Lab Logo" height="150px" /></a>
 &nbsp;&nbsp;
-<a href="https://bmc.org"><img src="https://github.com/SyndemicsLab/.github/blob/main/profile/images/BMC.png" alt="BMC Logo" height="150px" /></a>
+<a href="https://bmc.org"><img src="/profile/images/BMC.png" alt="BMC Logo" height="150px" /></a>
 </p>
 
 ## What We Do
