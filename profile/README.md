@@ -17,7 +17,7 @@ primarily through use of our simulation models, RESPOND and HEP-CE.
 ### RESPOND
 
 <a href="https://syndemicslab.github.io/respond/">
-<img src="https://github.com/SyndemicsLab/.github/blob/main/profile/images/RESPOND.png" alt="RESPOND Logo" width="200" align="right"/>
+<img src="/profile/images/RESPOND.png" alt="RESPOND Logo" width="200" align="right"/>
 </a>
 
 **R**esearching **E**ffective **S**trategies to **P**revent **O**pioid **D**eath
@@ -29,7 +29,7 @@ or interventions.
 ### HEP-CE
 
 <a href="https://github.com/SyndemicsLab/hep-ce">
-<img src="https://github.com/SyndemicsLab/.github/blob/main/profile/images/HEPCE.png" alt="HEP-CE Logo" width="200" align="right"/>
+<img src="/profile/images/HEPCE.png" alt="HEP-CE Logo" width="200" align="right"/>
 </a>
 
 **Hep**atitis C **C**ost **E**ffectiveness (`HEP-CE`) is a Markov chain Monte
