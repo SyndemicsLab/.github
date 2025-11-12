@@ -8,7 +8,7 @@ Welcome to the [Syndemics Lab](https://syndemicslab.org). Under Lead Principal I
 </p>
 
 ## What We Do
-Our team studies synergistic epidemics—syndemics*—with a particular focus on
+Our team studies synergistic epidemics—*syndemics*—with a particular focus on
 Hepatitis C Virus (HCV), the Human Immunodeficiency Virus (HIV), and substance
 use disorders.  Our work is centered on using simulation and cost-effectiveness
 analysis methods to evaluate current public health guidelines and policies,
@@ -16,9 +16,9 @@ primarily through use of our simulation models, RESPOND and HEP-CE.
 
 ### RESPOND
 
-**R**esearching **E**ffective **S**trategies to **P**revent **O**pioid **D**eath (`RESPOND`) is a compartmental, cohort-based simulation model intended to represent a population with opioid use disorder through its movements on and off of treatments.
-<div align="right">
-<img src="https://github.com/SyndemicsLab/.github/blob/main/profile/images/RESPOND.png" alt="RESPOND Logo" height="100"/>
+<div>
+<b>R</b>esearching <b>E</b>ffective <b>S</b>trategies to <b>P</b>revent <b>O</b>pioid <b>D</b>eath (`RESPOND`) is a compartmental, cohort-based simulation model intended to represent a population with opioid use disorder through its movements on and off of treatments.
+<img src="https://github.com/SyndemicsLab/.github/blob/main/profile/images/RESPOND.png" alt="RESPOND Logo" height="100" align="right"/>
 </div>
 
 ### HEP-CE
