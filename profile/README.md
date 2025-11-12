@@ -1,10 +1,10 @@
-<p align="center">
-<a href="https://syndemicslab.org"><img src="https://github.com/SyndemicsLab/.github/blob/main/profile/images/SyndemicsLab.png" alt="Syndemics Lab Logo" height="150px" /></a>
-<a href="https://bmc.org"><img src="https://github.com/SyndemicsLab/.github/blob/main/profile/images/BMC.png" alt="BMC Logo" height="150px" /></a>
-</p>
-
 # Syndemics Lab at Boston Medical Center
 Welcome to the [Syndemics Lab](https://syndemicslab.org). Under Lead Principal Investigator Benjamin P. Linas, we conduct research as part of Boston Medical Center.
+
+<div style="display: flex; flex-direction: row; justify-content: space-between;">
+<a href="https://syndemicslab.org"><img src="https://github.com/SyndemicsLab/.github/blob/main/profile/images/SyndemicsLab.png" alt="Syndemics Lab Logo" height="150px" /></a>
+<a href="https://bmc.org"><img src="https://github.com/SyndemicsLab/.github/blob/main/profile/images/BMC.png" alt="BMC Logo" height="150px" /></a>
+</div>
 
 ## What We Do
 Our team studies synergistic epidemics, or *syndemics*, with a particular focus on Hepatitis C Virus (HCV), the Human Immunodeficiency Virus (HIV), and substance use disorder.
