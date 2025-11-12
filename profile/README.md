@@ -16,12 +16,16 @@ primarily through use of our simulation models, RESPOND and HEP-CE.
 
 ### RESPOND
 
+<a href="https://github.com/SyndemicsLab/hep-ce">
 <img src="https://github.com/SyndemicsLab/.github/blob/main/profile/images/RESPOND.png" alt="RESPOND Logo" height="100" align="right"/>
+</a>
+
 **R**esearching **E**ffective **S**trategies to **P**revent **O**pioid **D**eath (`RESPOND`) is a compartmental, cohort-based simulation model intended to represent a population with opioid use disorder through its movements on and off of treatments.
 
 ### HEP-CE
 
 <img src="https://github.com/SyndemicsLab/.github/blob/main/profile/images/HEPCE.png" alt="HEP-CE Logo" height="100" align="right"/>
+
 **Hep**atitis C **C**ost **E**ffectiveness (`HEP-CE`) is a health economics Markov Chain Monte Carlo micro-simulation model focused on studying the syndemic of opioid use disorder and the hepatitis C virus (HCV).
 
 ## Syndemics Lab Dictionary
