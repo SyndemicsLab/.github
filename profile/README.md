@@ -16,7 +16,7 @@ primarily through use of our simulation models, RESPOND and HEP-CE.
 
 ### RESPOND
 
-<a href="https://syndemicslab.github.io/respond/">
+<a href="https://github.com/SyndemicsLab/respond">
 <img src="/profile/images/RESPOND.png" alt="RESPOND Logo" width="200" align="right"/>
 </a>
 
