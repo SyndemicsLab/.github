@@ -1,6 +1,7 @@
 ## What does this PR do?
 
 ## What YouTrack task is this associated with?
+<!-- You can just put the code from the issue, e.g. FOO-1, here. -->
 
 ## Checklist before merging
 <!--
